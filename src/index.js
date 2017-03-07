@@ -1,2 +1,1 @@
-// TODO: Render the `App` component to the DOM
-
+ReactDom.render(<App />, document.getElementById('app'));
